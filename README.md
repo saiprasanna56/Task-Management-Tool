@@ -15,6 +15,8 @@ Welcome to the **Task Manager** — a modern, full-featured task management web 
 - 🌐 Full Docker integration
 - 🧩 PostgreSQL as a powerful relational database
 
+## DEPLOYMENT FRONTEND LINK - [Deployment link](https://task-management-tool-two.vercel.app/)
+
 ---
 
 ## 🛠️ Available Scripts
