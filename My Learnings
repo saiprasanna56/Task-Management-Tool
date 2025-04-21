@@ -1,0 +1,13 @@
+During the development of this project, I gained a deep understanding of several key technologies and practices in full-stack development:
+
+Docker: Prior to this project, I had no experience with Docker. Through this task, I learned how to containerize both the frontend and backend, set up Docker Compose, and run services in isolated environments, which will be incredibly useful for future deployments.
+
+API Design and Management: I improved my skills in designing and organizing APIs. I learned how to structure backend routes, controllers, and middleware for better scalability and maintainability.
+
+PostgreSQL: This project was my introduction to PostgreSQL. I became familiar with writing basic SQL queries, setting up relational schemas, and interacting with the database using Node.js and SQL clients.
+
+React: Through this project, I also significantly improved my skills in React. I learned better state management, component structuring, and how to integrate frontend components with backend APIs efficiently.
+
+Postman API Testing: I also learned how to test APIs effectively using Postman. This helped me validate the correctness of my API endpoints, debug responses, and ensure that the backend is functioning as expected.
+
+Overall, this project pushed me to explore new tools and best practices. It helped me bridge gaps in my full-stack knowledge and has definitely made me more confident in building scalable and production-ready web applications.
