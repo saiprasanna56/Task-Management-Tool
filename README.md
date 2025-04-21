@@ -73,14 +73,14 @@ POST /api/auth/login
 ```
 ## 📋 Tasks
 ```bash
-GET    /api/tasks
-POST   /api/tasks
+GET    /api/tasks/tasks
+POST   /api/tasks/tasks
 PATCH  /api/tasks/:id
 DELETE /api/tasks/:id
 ```
-## 👥 Members
+## 👥 Admin
 ```bash
-GET    /api/members
-POST   /api/members
-DELETE /api/members/:id
+GET    /api/admin/user
+POST   /api/admin/members
+DELETE /api/admin/members/:id
 ```
