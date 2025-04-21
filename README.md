@@ -8,6 +8,8 @@ A full-stack Kanban-style Task Management Tool built with:
 - **Authentication**: JWT-based Auth with Role-Based Access (Admin/Member)
 - **Containerization**: Docker & Docker Compose
 
+  Deployment link - https://task-manager-version1-eight.vercel.app/
+
 ---
 
 ## 🔧 Features
